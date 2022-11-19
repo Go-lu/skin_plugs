@@ -6,4 +6,4 @@
 >
 >
 #### 使用说明
-> 在站点配置文件 `.env`中添加插件商店源配置项 `PLUGINS_REGISTRY=https://dog.golu-ljg.cn/upload/registry_zh_CN.json`，刷新页面即可 ~~
+> 在站点配置文件 `.env`中添加插件商店源配置项 `PLUGINS_REGISTRY=https://gitee.com/golu-ljg/skin_plugs/raw/master/config/registry_zh_CN.json`，刷新页面即可 ~~
